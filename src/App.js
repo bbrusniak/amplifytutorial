@@ -6,7 +6,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      text: "butt"
+      text: "Benji-demo"
     }
   }
 
